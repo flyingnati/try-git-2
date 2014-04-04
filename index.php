@@ -1,5 +1,5 @@
 <?php
-	echo "Nuttapol"		;
+	echo "Nuttapol";
   echo "newnewNoob";
   echo "Nati";
 

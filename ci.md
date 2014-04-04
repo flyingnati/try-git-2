@@ -110,8 +110,6 @@ Cambria and Indiana Railroad
 Contact improvisation
 Christian Identity
 Creative Industries
-<<<<<<< HEAD
-=======
 
 EIEI NEWNEWPIN
 
@@ -126,4 +124,3 @@ The 2013 rankings of the world's 100 most valuable brands published by Millward 
 Intel has also begun research into electrical transmission and generation.[10][11] Intel has recently introduced a 3-D transistor that improves performance and energy efficiency.[12] Intel has begun mass-producing this 3-D transistor, named the Tri-Gate transistor, with their 22 nm process, which is currently used in their 3rd generation core processors initially released on April 29, 2012.[13] In 2011, SpectraWatt Inc., a solar cell spinoff of Intel, filed for bankruptcy under Chapter 11.[14] In June 2013, Intel unveiled its fourth generation of Intel Core processors (Haswell) in an event named Computex in Taipei.[15]
 
 The Open Source Technology Center at Intel hosts PowerTOP and LatencyTOP, and supports other open-source projects such as Wayland, Intel Array Building Blocks, Threading Building Blocks (TBB), and Xen.[16][17]
->>>>>>> fb679875fe92312568479c92462e562031e2ed7d

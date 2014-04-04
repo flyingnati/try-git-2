@@ -1,2 +1,6 @@
 <?
-echo 'hello PHP';
+
+echo "newnewNoob";
+echo "Nati";
+
+?>
